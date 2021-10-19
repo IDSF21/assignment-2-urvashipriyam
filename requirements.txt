@@ -1,0 +1,7 @@
+pandas
+numpy
+streamlit
+altair
+pydeck
+plotly
+json
